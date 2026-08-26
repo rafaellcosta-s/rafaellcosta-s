@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: Desenvolvimento de projetos, automação e <br>estudos em Engenharia de Software<br><br>👯 I’m looking to collaborate on: Projetos de Back-end, <br>automação e ferramentas de estudo<br><br>🌱 I’m currently learning: Estruturas de dados, Banco de Dados e <br>linguagem C<br><br>💬 Ask me about: Python, desenvolvimento de projetos e <br>computação no CESAR School<br><br>⚡ Fun fact: Sempre misturando programação com eletrônica <br>(Arduino) e modelagem matemática!
 
 
